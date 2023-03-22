@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+        Filename: Main.fxml
+        Original Creator: Dorian Brandusa
+        Date Created: 12/15/2022
+        Version: v1
+-->
+
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane xmlns:fx="http://javafx.com/fxml/1" fx:controller="rms.MainController">
+    <!-- TODO Add Nodes -->
+</AnchorPane>
